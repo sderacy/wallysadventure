@@ -9,7 +9,7 @@
 
 Train game similar to the Google Dinosaur game for my IMM 280 Class ('22)
 
-This is a reskin and update of the game created by Chris Deacy.
+This is a reskin and update of the game created by Chris Deacy. You can find his repo [here](https://github.com/chrisdothtml/chrome-dino)
 He features an almost identical Chrome dinosaur game and we changed the sprites to be more
 train themed after Wally the Whistle
 
