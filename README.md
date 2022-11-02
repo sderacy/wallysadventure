@@ -6,6 +6,7 @@
 </h1>
 
 # Wally's Adventure
+
 Train game similar to the Google Dinosaur game for my IMM 280 Class ('22)
 
 This is a reskin and update of the game created by Chris Deacy.
@@ -14,11 +15,11 @@ train themed after Wally the Whistle
 
 ## Run locally (literally)
 
-Delete the yarn.lock file
+Delete the yarn.lock file and then run the commands below.
 
 ```bash
 # Install Dependencies
-# If you got an error with something similar to: 
+# If you got an error with something similar to:
 # "https://unpm.uberinternal.com/ocular/-/ocular-0.2.16.tgz: Request failed \"401 Unauthorized\"".
 # Delete the yarn.lock file
 $ yarn
@@ -26,7 +27,6 @@ $ yarn
 # Start server
 $ yarn start
 ```
-
 
 ## License
 
