@@ -13,7 +13,7 @@ This is a reskin and update of the game created by Chris Deacy. You can find his
 He features an almost identical Chrome dinosaur game and we changed the sprites to be more
 train themed after Wally the Whistle
 
-## Run locally (literally)
+## Run locally
 
 Delete the yarn.lock file and then run the commands below.
 
