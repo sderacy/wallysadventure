@@ -19,3 +19,31 @@ footer {
   display: flex;
   align-items: center;
 }
+
+.bg-green {
+  background-color: #08544e;
+}
+
+.bg-light-green {
+  background-color: #aed489;
+}
+
+.bg-yellow {
+  background-color: #f5c83e;
+}
+
+.text-light-green {
+  color: #aed489;
+}
+
+.text-yellow {
+  color: #f5c83e;
+}
+
+.nav-link:hover {
+  color: #f5c83e !important;
+}
+
+a:hover {
+  color: #f5c83e !important;
+}
