@@ -15,12 +15,11 @@ train themed after Wally the Whistle
 
 ## Run locally
 
-Delete the yarn.lock file and then run the commands below.
-
 ```bash
 # Install Dependencies
 # If you got an error with something similar to:
 # "https://unpm.uberinternal.com/ocular/-/ocular-0.2.16.tgz: Request failed \"401 Unauthorized\"".
+
 # Delete the yarn.lock file
 $ yarn
 
