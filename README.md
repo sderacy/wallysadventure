@@ -7,13 +7,20 @@
 
 # Wally's Adventure
 
-Train game similar to the Google Dinosaur game for my IMM 280 Class ('22)
+Created during IMM 280 by Justin Cooper, Melanie De Leon, Sterly Deracy, Karyme Estevez in the 2022 Fall semester.
 
-This is a reskin and update of the game created by Chris Deacy. You can find his repo [here](https://github.com/chrisdothtml/chrome-dino)
-He features an almost identical Chrome dinosaur game and we changed the sprites to be more
-train themed after Wally the Whistle
+This uses some logic for starting the game by another developer named Chris Deacy. You can find his repo [here](https://github.com/chrisdothtml/chrome-dino)
 
 ## Run locally
+
+You will need to install yarn if you haven't already, which means that you'd have to install node and npm. 
+
+https://nodejs.org/en/download/
+
+Once that's installed, then you can follow this: 
+
+https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
+
 
 ```bash
 # Install Dependencies
