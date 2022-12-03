@@ -40,10 +40,23 @@ footer {
   color: #f5c83e;
 }
 
+.text-gray {
+  color: rgb(221, 221, 221);
+}
+
 .nav-link:hover {
   color: #f5c83e !important;
 }
 
 a:hover {
   color: #f5c83e !important;
+}
+
+html {
+  overflow: scroll;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  width: 0; /* Remove scrollbar space */
+  background: transparent; /* Optional: just make scrollbar invisible */
 }
