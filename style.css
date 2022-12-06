@@ -1,6 +1,9 @@
 #page-container {
   position: relative;
   min-height: 100vh;
+  color: #fffaee;
+  font-family: 'Quicksand', sans-serif !important;
+  font-weight: 200;
 }
 
 #content-wrap {
@@ -29,7 +32,7 @@ footer {
 }
 
 .bg-yellow {
-  background-color: #f5c83e;
+  background-color: #fb8b62;
 }
 
 .text-light-green {
@@ -37,19 +40,34 @@ footer {
 }
 
 .text-yellow {
-  color: #f5c83e;
+  color: #a6cff4;
+  font-size: medium;
+  font-family: Tahoma, sans-serif !important;
+  text-decoration: none;
+}
+
+.text-orange {
+  color: #fb8b62;
+  font-family: 'Press Start 2P';
 }
 
 .text-gray {
-  color: rgb(221, 221, 221);
+  color: #fffaee;
 }
 
 .nav-link:hover {
-  color: #f5c83e !important;
+  color: #fb8b62 !important;
 }
 
 a:hover {
-  color: #f5c83e !important;
+  color: #fb8b62 !important;
+}
+
+.text-blue {
+  color: #a6cff4;
+  font-size: medium;
+  font-family: Tahoma, sans-serif !important;
+  text-decoration: none;
 }
 
 html {
