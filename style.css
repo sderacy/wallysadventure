@@ -46,6 +46,10 @@ footer {
   text-decoration: none;
 }
 
+.text-yellow-heart {
+  color: #a6cff4;
+}
+
 .text-orange {
   color: #fb8b62;
   font-family: 'Press Start 2P';
